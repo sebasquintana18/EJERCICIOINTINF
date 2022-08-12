@@ -1,3 +1,4 @@
 contenido axel1
 modificado
+Modificacion paso 7, ejercitacion int informatica, escrita por Axel Bareiro
 Esta parte es la modificación hecha por johan en el archivo de axel 1 para el repositorio de github
